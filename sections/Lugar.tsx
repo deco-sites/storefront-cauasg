@@ -7,7 +7,7 @@ export interface Props {
 
 export default function Lugar(props: Props) {
   return (
-    <p className="container">
+    <p className="container my-3">
       Current temperature in {props.location}:{" "}
       <span className="font-semibold">
         {props.temp && props.temp.celsius}
