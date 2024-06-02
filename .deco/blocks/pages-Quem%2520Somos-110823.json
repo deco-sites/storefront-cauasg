@@ -23,6 +23,11 @@
           "href": "https://github.com/Cauasg?tab=repositories"
         }
       ]
+    },
+    {
+      "__resolveType": "site/sections/Cupom.tsx",
+      "code": "ABDDAF",
+      "description": "15% de desconto em sua primeira compra!"
     }
   ],
   "seo": {

@@ -37,11 +37,11 @@
       }
     },
     {
-      "__resolveType": "site/sections/Content/RichText.tsx",
-      "text": "<p class=\"container mt-4\">Mexico City, the capital of Mexico, is a bustling metropolis rich in history and culture. Founded by the Aztecs in 1325 as Tenochtitlán, it blends ancient traditions with modern influences. Key attractions include the Zócalo, Templo Mayor, and the National Museum of Anthropology. Art lovers can explore the Frida Kahlo Museum.</p><p class=\"container mt-2\">The city's culinary scene ranges from traditional street food to high-end dining. Each neighborhood, like bohemian Coyoacán and upscale Polanco, offers unique experiences. Known for its warmth and hospitality, Mexico City is a captivating destination for history, art, and cuisine enthusiasts.</p>"
+      "__resolveType": "Preview site/sections/Lugar.tsx"
     },
     {
-      "__resolveType": "Preview site/sections/Lugar.tsx"
+      "__resolveType": "site/sections/Content/RichText.tsx",
+      "text": "<p class=\"container mt-4\">Mexico City, the capital of Mexico, is a bustling metropolis rich in history and culture. Founded by the Aztecs in 1325 as Tenochtitlán, it blends ancient traditions with modern influences. Key attractions include the Zócalo, Templo Mayor, and the National Museum of Anthropology. Art lovers can explore the Frida Kahlo Museum.</p><p class=\"container mt-2\">The city's culinary scene ranges from traditional street food to high-end dining. Each neighborhood, like bohemian Coyoacán and upscale Polanco, offers unique experiences. Known for its warmth and hospitality, Mexico City is a captivating destination for history, art, and cuisine enthusiasts.</p>"
     }
   ],
   "seo": {
