@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/sections/Lugar.tsx",
+  "temp": {
+    "__resolveType": "site/loaders/temperature.ts",
+    "lat": 19.432608,
+    "long": -99.133209
+  },
+  "location": "Mexico City"
+}
