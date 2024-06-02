@@ -1,0 +1,48 @@
+{
+  "name": "Culturas",
+  "path": "/culturas",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/SeoV2.tsx",
+      "title": "Culturas",
+      "description": "Here at Culturali we celebrate mexican culture..."
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "__resolveType": "site/sections/Images/BannerGrid.tsx",
+      "title": "Mexican Culture",
+      "banners": [
+        {
+          "href": "https://www.bettycrocker.com/recipes/easy-beef-tacos/426c261d-b2eb-4e22-9cba-0066f3335591",
+          "srcMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10597/81cae324-aa71-4f64-a78d-313c8e2548f4",
+          "srcDesktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10597/7cae9ab9-850d-4c05-bd5a-8e08a7808f27",
+          "alt": "A table with typical mexican food"
+        },
+        {
+          "href": "https://www.lulus.com/blog/resources/all-about-traditional-mexican-clothing/",
+          "srcMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10597/5945fafa-4f6e-4d0a-b1d6-d8239456a83a",
+          "srcDesktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10597/6b4d92d8-17b8-4b56-a559-ff368c28b523",
+          "alt": "Typical mexican clothes"
+        }
+      ],
+      "borderRadius": {
+        "mobile": "3xl",
+        "desktop": "3xl"
+      },
+      "itemsPerLine": {
+        "mobile": 2,
+        "desktop": 2
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/RichText.tsx",
+      "text": "<p class=\"container mt-4\">Mexico City, the capital of Mexico, is a bustling metropolis rich in history and culture. Founded by the Aztecs in 1325 as Tenochtitlán, it blends ancient traditions with modern influences. Key attractions include the Zócalo, Templo Mayor, and the National Museum of Anthropology. Art lovers can explore the Frida Kahlo Museum.</p><p class=\"container mt-2\">The city's culinary scene ranges from traditional street food to high-end dining. Each neighborhood, like bohemian Coyoacán and upscale Polanco, offers unique experiences. Known for its warmth and hospitality, Mexico City is a captivating destination for history, art, and cuisine enthusiasts.</p>"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

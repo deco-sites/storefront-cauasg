@@ -1,0 +1,32 @@
+{
+  "name": "Quem Somos",
+  "path": "/quem-somos",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/SeoV2.tsx",
+      "title": "Quem Somos",
+      "description": "Want to know more about Culturalli?"
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "__resolveType": "site/sections/Content/Hero.tsx",
+      "title": "<h1><span style=\"font-size: 36px;\" data-mce-style=\"font-size: 36px;\">Welcome to Culturali!</span></h1>",
+      "placement": "right",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10597/d1214b7b-9d98-482e-8801-4d48f1d92d30",
+      "description": "At Culturali, we celebrate the rich diversity of global cultures through a curated selection of products and experiences and usage of the amazing Deco platform! ",
+      "cta": [
+        {
+          "variant": "Normal",
+          "text": "Dev's Github",
+          "href": "https://github.com/Cauasg?tab=repositories"
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
