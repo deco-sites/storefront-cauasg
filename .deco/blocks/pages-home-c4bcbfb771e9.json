@@ -106,9 +106,24 @@
       "adDescription": "Hello",
       "product": {
         "imageSrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10597/10a80b88-52ab-41d0-ad57-962fd08ae87e",
-        "title": "Camisa",
-        "price": 16
-      }
+        "price": 16,
+        "title": "Shirt with flowers"
+      },
+      "forcedError": {
+        "__resolveType": "site/loaders/generateError.ts"
+      },
+      "buttons": [
+        {
+          "variant": "Normal",
+          "href": "/culturas",
+          "text": "Mais detalhes"
+        },
+        {
+          "variant": "Normal",
+          "href": "/",
+          "text": "Comprar"
+        }
+      ]
     },
     {
       "__resolveType": "site/sections/Miscellaneous/Slide.tsx",
